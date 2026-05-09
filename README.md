@@ -71,7 +71,7 @@ This project models a simplified SOC pipeline:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/soc-dashboard-siem-simulator.git
+https://github.com/poojanoochila/soc-dashboard-siem-simulator
 ```
 
 ### 2. Open the project
