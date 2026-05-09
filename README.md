@@ -66,7 +66,7 @@ This project models a simplified SOC pipeline:
 ![Dashboard](screenshots/dashboard.png)
 
 ### Alert Management
-![Alerts](screenshots/alerts.png)
+![Alerts](screenshots/alert.png)
 
 ---
 
