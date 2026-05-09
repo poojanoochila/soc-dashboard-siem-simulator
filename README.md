@@ -62,7 +62,11 @@ This project models a simplified SOC pipeline:
 
 ## 📸 Screenshots
 
-*Add dashboard screenshots here*
+### Dashboard View
+![Dashboard](screenshots/dashboard.png)
+
+### Alert Management
+![Alerts](screenshots/alerts.png)
 
 ---
 
