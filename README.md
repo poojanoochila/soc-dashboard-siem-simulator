@@ -33,7 +33,7 @@ The system uses simulated log data to generate alerts and enables tracking of in
 
 This project models a simplified SOC pipeline:
 
-1. **Alert Ingestion** – Logs are processed and alerts are generated
+1. **Alert Ingestion** – Logs are processed, and alerts are generated
 2. **Triage** – Alerts are reviewed and prioritized
 3. **Investigation** – Basic correlation (e.g., repeated IP detection)
 4. **Response** – Alerts are assigned and resolved
